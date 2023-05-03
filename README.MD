@@ -1,0 +1,8 @@
+## OBJETIVO DO PROJETO: 
+Começar a aprender Node.JS
+
+## TECNOLOGIAS UTILIZADAS:
+- NODE.JS
+
+## INSTALAÇÕES E CONFIGS
+- npm init -y
